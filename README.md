@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zrnited
-- 👀 I’m interested in writing frontend codes
-- 🌱 I’m currently learning frontend website development
-- 💞️ I’m looking to collaborate on frontend jobs
+- 👋 Hi, I’m Kolawole Mayowa. My coding name goes by Zr_Nited
+- 👀 I’m interested in writing codes
+- 🌱 I’m currently into frontend website development
+- 💞️ I’m looking to collaborate/work on frontend jobs
 - 📫 reach me through the email: kolamayh@gmail.com
 
 <!---
